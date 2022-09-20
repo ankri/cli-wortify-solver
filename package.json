@@ -1,0 +1,19 @@
+{
+  "name": "cli-wortify-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Andy Krings-Stern",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.1.2",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.1"
+  }
+}

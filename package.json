@@ -1,7 +1,7 @@
 {
   "name": "cli-wortify-solver",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command line app to find solutions for the german wortify game",
   "main": "index.js",
   "type": "module",
   "scripts": {
